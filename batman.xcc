@@ -35,5 +35,5 @@
 	<system>msx</system>
 	<system>arcade</system>
 	<system>amstradcpc</system>
-	<text>BATMAN</text>
+	<text>BATMAN,蝙蝠侠</text>
 </filter>

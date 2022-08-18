@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
 <filter name="residentevil">
-	<text>RESIDENT</text>
+	<text>RESIDENT,BIOHAZARD,生化危机</text>
 </filter>
