@@ -1,3 +1,9 @@
 Extract/Copy to .config/emulationstation/collections
 
 They will then appear in your Custom Collections
+
+---
+
+解压到 `.config/emulationstation/collections`（EmuELEC 系统下解压到 `/storage/.config/emulationstation/collections`）
+
+选择对应的合辑，相关符合的中英文文件名的 ROM 都会自动归入合辑
